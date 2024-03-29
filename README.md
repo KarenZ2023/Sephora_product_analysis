@@ -16,4 +16,4 @@ Additionally, an interactive Tableau visualization was built for consumers. Cons
 
 Check out the Tableau visualization of the skincare products [here](https://public.tableau.com/views/Sephora_skincare/SephoraSkincare?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link). This visualization provides a comprehensive overview of the skincare products analyzed in this project.
 
-
+![image](https://github.com/KarenZ2023/Sephora_product_analysis/assets/91806803/17cfc529-2c32-4a47-8ced-be8f099788c0)
