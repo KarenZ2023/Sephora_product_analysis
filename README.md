@@ -6,11 +6,11 @@ Additionally, an interactive Tableau visualization was built for consumers. Cons
 
 ## File Descriptions
 
-- [https://github.com/KarenZ2023/Sephora_product_analysis/blob/main/code/ScrapeSephora.ipynb](code/ScrapeSephora.ipynb): This Jupyter notebook extracts and saves all skincare product URLs. For each URL, the html file or webpage was saved. From each wepage, product details were extracted and saved into a CSV file. 
+- `code/ScrapeSephora.ipynb`: This Jupyter notebook extracts and saves all skincare product URLs. For each URL, the html file or webpage was saved. From each wepage, product details were extracted and saved into a CSV file. 
   
-- [https://github.com/KarenZ2023/Sephora_product_analysis/blob/main/code/CleanSephoraProducts.ipynb](code/CleanSephoraProducts.ipynb): This Jupyter notebook preprocesses the data for model building. It renames columns, applies string transformations, extracts product size, filters skincare products, generates dummy variables, and creates product connections.
+- `code/CleanSephoraProducts.ipynb`: This Jupyter notebook preprocesses the data for model building. It renames columns, applies string transformations, extracts product size, filters skincare products, generates dummy variables, and creates product connections.
 
--[https://github.com/KarenZ2023/Sephora_product_analysis/blob/main/code/ProductAnalysis.ipynb](code/ProductAnalysis.ipynb): This Jupyter notebook performs exploratory data analysis using ydata_profiling, creates a network graph of products and their recommended products, builds a linear regression model to predict average ratings of products. 
+- `code/ProductAnalysis.ipynb`: This Jupyter notebook performs exploratory data analysis using ydata_profiling, creates a network graph of products and their recommended products, builds a linear regression model to predict average ratings of products. 
 
 ## Tableau Visualization
 
